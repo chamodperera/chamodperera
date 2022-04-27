@@ -8,7 +8,7 @@ I am Chamod Perera, and I am a Web Developer|Designer and Graphic Designer.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **React**
+- 📫 How to reach me: **chamodperera887@gmail.com**
+
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
@@ -30,5 +33,8 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  
+ ![Chamod Perera's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=prussian&hide_border=true)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=prussian&hide_border=true)](https://github.com/chamodperera/github-readme-stats)
 
 
