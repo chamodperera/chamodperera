@@ -38,6 +38,6 @@ Here are some ideas to get you started:
  
  ![Chamod Perera's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=prussian&hide_border=true)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=prussian&hide_border=true)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=prussian&hide_border=true)
 
 
