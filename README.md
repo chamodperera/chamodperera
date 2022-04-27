@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning **React**
-- 📫 How to reach me: **chamodperera887@gmail.com**
+- 📫 How to reach me: **chamodperera87@gmail.com**
 
 
 ## 🔧 Technologies & Tools
