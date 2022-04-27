@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
  
+ ##
+ 
  ![Chamod Perera's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=prussian&hide_border=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=prussian&hide_border=true)](https://github.com/chamodperera/github-readme-stats)
