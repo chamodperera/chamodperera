@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: **chamodperera87@gmail.com**
-
+- ⚡ See my projects **https://chamodperera.github.io/projects/**
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
