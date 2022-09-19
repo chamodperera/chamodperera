@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: **chamodperera87@gmail.com**
-- ⚡ Portfolio **https://chamodperera.netlify.app/**
+- ⚡ Portfolio: **https://chamodperera.netlify.app/**
 
 ## 🔧 Technologies & Tools
 <p align="left"> 
