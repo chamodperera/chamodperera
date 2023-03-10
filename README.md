@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning about **Machine Learning**
 - 📫 How to reach me: **chamodperera87@gmail.com**
 - ⚡ Portfolio: **https://chamodperera.netlify.app/**
 
