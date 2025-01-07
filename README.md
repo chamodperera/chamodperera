@@ -1,6 +1,6 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Chamod Perera, and I am a Web Developer | Designer and a Graphic Designer. 
+I am Chamod Perera, and I am a Web Developer || Designer and a Graphic Designer.
 
 <!--
 **chamodperera/chamodperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning about **Machine Learning**
 - 📫 How to reach me: **chamodperera87@gmail.com**
 - ⚡ Portfolio: **https://chamodperera.netlify.app/**
 
 ## 🔧 Technologies & Tools
+
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a>
@@ -41,5 +43,3 @@ Here are some ideas to get you started:
  ![Chamod Perera's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=prussian&hide_border=true)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=prussian&hide_border=true)
-
-
