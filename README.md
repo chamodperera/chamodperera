@@ -35,8 +35,8 @@ I’m **Chamod Perera** — a **Co-founder**, **Researcher**, and **Software Eng
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=dark" alt="Chamod's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodperera&theme=dark" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chamodperera&show_icons=true&theme=dark" alt="Chamod's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodperera&layout=compact&theme=dark"/>
 </p>
 
